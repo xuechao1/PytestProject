@@ -4,7 +4,6 @@ ___author___ = 'Steven Emerson'
 ___date___ = '2020/7/12 12:04'
 
 import sys
-
 print(sys.path.append('..'))
 import pytest
 from pythoncode.calc import Calcuator
